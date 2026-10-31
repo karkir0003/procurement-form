@@ -1,0 +1,13 @@
+{
+  "name": "procurement-system",
+  "version": "1.0.0",
+  "description": "Procurement Form System - AI Assisted Design",
+  "main": "procurement/index.js",
+  "scripts": {
+    "start": "node tests/test_procurement.js",
+    "test": "node tests/test_procurement.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
